@@ -1,4 +1,4 @@
-# Simple Blog API
+# Simple Movie API
 
 This is an example of a simple movie API using Express, referenced in the corresponding **Node.js & Express tutorial slides**.
 
